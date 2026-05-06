@@ -1,4 +1,4 @@
-# Context Engine — Enterprise AI Data Intelligence Layer
+# Context Engine - Enterprise AI Data Intelligence Layer
 
 An open-source, self-hosted AI infrastructure layer for enterprise operations. Combines a **Context API** (entity graph, RAG, RLHF, policy engine) with a fully automated **AI Hiring Pipeline** — built with FastAPI, Next.js 14, PostgreSQL, and Claude (Anthropic).
 
