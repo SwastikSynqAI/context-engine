@@ -1,0 +1,15 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Context Engine",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "synq_context",
+      "Username": "synq",
+      "Password": "synqdev",
+      "SSLMode": "prefer",
+      "Favorite": true
+    }
+  }
+}
